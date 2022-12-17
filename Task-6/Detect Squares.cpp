@@ -28,10 +28,7 @@ private:
 };
 
 
-// Time:  ctor:  O(1)
-//        add:   O(1)
-//        count: O(n)
-// Space: O(n)
+
 class DetectSquares2 {
 public:
     DetectSquares2() {
